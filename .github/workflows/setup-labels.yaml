@@ -40,7 +40,7 @@ jobs:
         with:
           script: |
             const labels = [
-              { name: 'enhancement', color: 'a2eeef', description: 'New feature or request' },
+              { name: 'dependencies', color: '0366d6', description: 'Pull requests that update a dependency file' },
               { name: 'npm', color: 'cb3837', description: 'Related to npm packages and Node.js dependencies' }
             ];
 
