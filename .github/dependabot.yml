@@ -1,0 +1,7 @@
+version: 2
+updates:
+  # Please adjust according to the language used at the destination.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
